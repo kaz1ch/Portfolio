@@ -13,7 +13,6 @@
 - sklearn.model_selection.**GridSearchCV**
 - sklearn.model_selection.**TimeSeriesSplit**
 - statsmodels.tsa.seasonal.**seasonal_decompose**
-- statsmodels.tsa.seasonal.**seasonal_decompose**
 - sklearn.model_selection.**TimeSeriesSplit**
 - sklearn.model_selection.**GridSearchCV**
 - sklearn.metrics.**mean_squared_error**
